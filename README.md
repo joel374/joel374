@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joel374" alt="joel374" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs & NodeJs**
+- 🌱 I’m currently learning **everything**
 
 - 📫 How to reach me **joellegifanimanisali@gmail.com**
 
